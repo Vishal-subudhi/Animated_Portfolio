@@ -1,16 +1,14 @@
-# React + Vite
+Project: Animated Portfolio Landing Page
+Date completed:20/03/2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What I built: I have built my personal Portfolio where i have shared my details projects and all
 
-Currently, two official plugins are available:
+Main concepts this project taught me: It taught me transitions, grid, better styling, Focus:hover and much mote concepts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+What was hardest: Enabling the Transitons to be specific the "useScrollAnimation"
 
-## React Compiler
+What I'd do differently: I Wrote majorty of the code by my self i took help in styling from Claude
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Feature I added myself: I add the typewriting feature which is an animation which will fade in the next block automatically once we scroll
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Time taken: 5 Working days
